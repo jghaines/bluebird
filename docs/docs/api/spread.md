@@ -33,7 +33,7 @@ Promise.delay(500).then(function() {
 });
 ```
 
-If using ES6, the above can be replaced with [.then()](.) and destructuring:
+If using ES6, the above can be replaced with [.then()](.) and [destructuring](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment):
 
 ```js
 Promise.delay(500).then(function() {
